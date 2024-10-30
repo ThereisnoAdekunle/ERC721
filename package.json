@@ -1,0 +1,12 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@nomicfoundation/hardhat-web3-v4": "^1.0.0",
+    "@openzeppelin/contracts": "^5.1.0",
+    "@swisstronik/web3-plugin-swisstronik": "^1.5.1",
+    "hardhat": "^2.22.15",
+    "web3": "^4.14.0",
+    "web3-utils": "^4.3.2"
+  }
+}
